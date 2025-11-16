@@ -1,12 +1,12 @@
 {
   "assets": {
     "2d": [
-      "public/assets/2d/Car.JPG",
-      "public/assets/2d/Olpympia Turm.jpg",
-      "public/assets/2d/Violin.JPG"
+      "assets/2d/Car.JPG",
+      "assets/2d/Olpympia Turm.jpg",
+      "assets/2d/Violin.JPG"
     ],
     "3d": [
-      "public/assets/3d/sample-3d_glb.glb"
+      "assets/3d/sample-3d_glb.glb"
     ]
   },
   "blog": [
