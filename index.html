@@ -6,15 +6,17 @@
   <link rel="icon" type="image/svg+xml" href="/vite.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>portfolio-carina-hollinger</title>
-  <script type="module" crossorigin src="/assets/index-DsIFDKhE.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-Dc9fEe_A.css">
+  <script type="module" crossorigin src="/assets/index-C-AOj5Ao.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BbnEZWJB.css">
 </head>
 
 <body>
+  <button id='langBtn' class="langBtn" data-key="languageButton">Deutsch</button>
   <nav>
-    <button class="nav-btn selected" data-target="gallery2dContainer">2D Gallery</button>
-    <button class="nav-btn" data-target="gallery3dContainer">3D Gallery</button>
-    <button class="nav-btn" data-target="blog">Blog</button>
+    <button class="nav-btn" data-target="gallery2dContainer" data-key="gallery2d">2D Gallery</button>
+    <button class="nav-btn" data-target="gallery3dContainer" data-key="gallery3d">3D Gallery</button>
+    <button class="nav-btn" data-target="blog" data-key="blog">Blog</button>
+    <button class="nav-btn" data-target="contact" data-key="contact">Contact</button>
   </nav>
 
   <section id="gallery2dContainer" class="active">
@@ -26,9 +28,29 @@
   </section>
 
   <section id="blog">
-    <div id="blog"></div>
+    <div id="blog" class="blog"></div>
+  </section>
+
+  <section id="contact">
+    <div id="contact">
+      <form id="contactForm"  class="contactForm" action="https://formspree.io/f/xjkjdapo" method="POST">
+        <input type="text" data-key="name"  name="name" placeholder="Name" required>
+        <input type="email" data-key="email" name="email" placeholder="Email" required>
+        <textarea data-key="message" name="message" placeholder="Message" required></textarea>
+
+        <!-- Honeypot -->
+        <input type="text" name="_gotcha" style="display:none">
+
+        <button class="btn" data-key="send" type="submit">Send</button>
+      </form>
+
+      <div id="status"></div>
+
+    </div>
   </section>
 
 </body>
+
+
 
 </html>
