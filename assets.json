@@ -2,7 +2,7 @@
   "assets": {
     "2d": [
       "assets/2d/Car.JPG",
-      "assets/2d/Olpympia Turm.jpg",
+      "assets/2d/OlympiaTurm.jpg",
       "assets/2d/Violin.JPG"
     ],
     "3d": [
@@ -12,7 +12,55 @@
   "blog": [
     {
       "title": "LoremIpsum",
+      "language": "de",
+      "html": "<h1>Die Wunder von Lorem Ipsum erkunden</h1>\n<p><em>Veröffentlicht am 16. November 2025 von Jane Doe</em></p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>\n<h2>Die Ursprünge von Lorem Ipsum</h2>\n<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p>\n<p>Lorem Ipsum ist seit den 1500er Jahren der Standardtext der Branche, als ein unbekannter Drucker eine Schriftprobe nahm und sie durcheinanderbrachte, um ein Musterbuch zu erstellen.</p>\n<h2>Warum Lorem Ipsum verwenden?</h2>\n<ul>\n<li><strong>Fokus auf Design</strong>: Lorem Ipsum hilft Designern, sich auf das Layout statt auf den Inhalt zu konzentrieren.  </li>\n<li><strong>Konsistenz</strong>: Es liefert einen standardisierten Text, der nicht ablenkt.  </li>\n<li><strong>Realistische Verteilung</strong>: Der Text ahmt die Buchstabenverteilung im Englischen nach und wirkt natürlicher.</li>\n</ul>\n<h2>Moderne Anwendungen</h2>\n<p>Lorem Ipsum wird heutzutage häufig verwendet in:</p>\n<ol>\n<li>Webdesign-Mockups  </li>\n<li>Drucklayouts  </li>\n<li>Platzhalter-Inhalte für Apps  </li>\n<li>UX/UI-Prototypen</li>\n</ol>\n<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed aliquam, urna ut sollicitudin molestie, lacus justo aliquam mauris, interdum aliquam sapien nisi cursus mauris.  </p>\n<h2>Fazit</h2>\n<p>Lorem Ipsum bleibt ein unverzichtbares Werkzeug für Kreative weltweit. Es ermöglicht uns, Inhalte zu visualisieren, ohne durch sinnvollen Text abgelenkt zu werden. Während sich das Design weiterentwickelt, behält das bescheidene Lorem Ipsum seinen Platz im kreativen Werkzeugkasten.</p>\n<blockquote>\n<p>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot; – Anonym</p>\n</blockquote>\n"
+    },
+    {
+      "title": "LoremIpsum",
+      "language": "en",
       "html": "<h1>Exploring the Wonders of Lorem Ipsum</h1>\n<p><em>Published on November 16, 2025 by Jane Doe</em></p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>\n<h2>The Origins of Lorem Ipsum</h2>\n<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p>\n<p>Lorem ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>\n<h2>Why Use Lorem Ipsum?</h2>\n<ul>\n<li><strong>Focus on design</strong>: Lorem ipsum helps designers focus on layout rather than content.  </li>\n<li><strong>Consistency</strong>: It provides a standard set of text that won’t distract.  </li>\n<li><strong>Realistic distribution</strong>: The text mimics the distribution of letters in English, giving a more natural look.</li>\n</ul>\n<h2>Modern Applications</h2>\n<p>Lorem ipsum is now widely used in:</p>\n<ol>\n<li>Web design mockups</li>\n<li>Print layouts</li>\n<li>Placeholder content for apps</li>\n<li>UX/UI prototypes</li>\n</ol>\n<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed aliquam, urna ut sollicitudin molestie, lacus justo aliquam mauris, interdum aliquam sapien nisi cursus mauris.  </p>\n<h2>Conclusion</h2>\n<p>Lorem ipsum remains a vital tool for creatives worldwide. It allows us to visualize content without being distracted by meaningful text. As design continues to evolve, the humble lorem ipsum continues to hold its place in the creative toolkit.</p>\n<blockquote>\n<p>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot; – Anonymous</p>\n</blockquote>\n"
+    }
+  ],
+  "descriptions": [
+    {
+      "title": "Car",
+      "language": "de",
+      "html": "<h2>Es ist ein Auto</h2>\n"
+    },
+    {
+      "title": "Car",
+      "language": "en",
+      "html": "<h2>This is a cat</h2>\n"
+    },
+    {
+      "title": "OlympiaTurm",
+      "language": "de",
+      "html": "<h2>Woah so ein riesen ding</h2>\n"
+    },
+    {
+      "title": "OlympiaTurm",
+      "language": "en",
+      "html": "<h2>What a big thing</h2>\n"
+    },
+    {
+      "title": "Violin",
+      "language": "de",
+      "html": "<p><em>quietsch quietsch</em></p>\n"
+    },
+    {
+      "title": "Violin",
+      "language": "en",
+      "html": "<p><em>squeek squeek</em></p>\n"
+    },
+    {
+      "title": "sample-3d_glb",
+      "language": "de",
+      "html": "<p>Muuuuuh</p>\n<p>sprichst du mit mir einfachem Ochsen</p>\n"
+    },
+    {
+      "title": "sample-3d_glb",
+      "language": "en",
+      "html": "<p>Muuuuuh</p>\n<p>ah you are addressing me a humble ox</p>\n"
     }
   ]
 }
