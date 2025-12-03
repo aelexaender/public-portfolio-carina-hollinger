@@ -1,10 +1,8 @@
 {
   "assets": {
     "2d": [
-      "assets/2d/Car.JPG",
-      "assets/2d/OlympiaTurm.jpg",
-      "assets/2d/Violin.JPG",
-      "assets/2d/WhatsApp Bild 2025-08-29 um 21.42.00_4a8552dc.jpg"
+      "assets/2d/Gear.jpg",
+      "assets/2d/Mauvel.jpg"
     ],
     "3d": [
       "assets/3d/sample-3d_glb.glb"
@@ -34,24 +32,24 @@
   ],
   "descriptions": [
     {
-      "title": "Car",
+      "title": "Gear",
       "language": "de",
-      "html": "<h2>Es ist ein Auto</h2>\n"
+      "html": "<h2>Lineart</h2>\n<p>01/2025</p>\n<p>freies Projekt </p>\n<p><em>digitale Zeichnung</em></p>\n<p>&nbsp;</p>\n"
     },
     {
-      "title": "Car",
+      "title": "Gear",
       "language": "en",
-      "html": "<h2>This is a cat</h2>\n"
+      "html": "<h2>Lineart</h2>\n<p>01/2025</p>\n<p>free project</p>\n<p><em>digital drawing</em></p>\n<p> </p>\n"
     },
     {
-      "title": "OlympiaTurm",
+      "title": "Mauvel",
       "language": "de",
-      "html": "<h2>Woah so ein riesen ding</h2>\n"
+      "html": "<h2>Charakterdesign</h2>\n<p>eigener Spielercharakter im Dungeons &amp; Dragons Universum</p>\n<p><em>digitale Zeichnung/Wasserfarbe</em></p>\n"
     },
     {
-      "title": "OlympiaTurm",
+      "title": "Mauvel",
       "language": "en",
-      "html": "<h2>What a big thing</h2>\n"
+      "html": "<h2>Characterdesign</h2>\n<p>personal Player Character in the Dungeons &amp; Dragons universe</p>\n<p><em>digital drawing/watercolour</em></p>\n"
     },
     {
       "title": "Violin",
