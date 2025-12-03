@@ -2,7 +2,11 @@
   "assets": {
     "2d": [
       "assets/2d/Gear.jpg",
-      "assets/2d/Mauvel.jpg"
+      "assets/2d/Mauvel.jpg",
+      "assets/2d/Vitos house_friendly.png",
+      "assets/2d/Vitos house_neutral.png",
+      "assets/2d/Vitos house_night.png",
+      "assets/2d/Vitos house_uneasy.png"
     ],
     "3d": [
       "assets/3d/sample-3d_glb.glb"
@@ -34,32 +38,32 @@
     {
       "title": "Gear",
       "language": "de",
-      "html": "<h2>Lineart</h2>\n<p>01/2025</p>\n<p>freies Projekt </p>\n<p><em>digitale Zeichnung</em></p>\n<p>&nbsp;</p>\n"
+      "html": "<h1>Räderwerk</h1>\n<h4>Lineart</h4>\n<h4>01/2025</h4>\n<p>freies Projekt</p>\n<p><em>digitale Zeichnung</em></p>\n<p> </p>\n"
     },
     {
       "title": "Gear",
       "language": "en",
-      "html": "<h2>Lineart</h2>\n<p>01/2025</p>\n<p>free project</p>\n<p><em>digital drawing</em></p>\n<p> </p>\n"
+      "html": "<h1>Clockwork</h1>\n<h4>Lineart</h4>\n<h4>01/2025</h4>\n<p>free project</p>\n<p><em>digital drawing</em></p>\n<p> </p>\n"
     },
     {
       "title": "Mauvel",
       "language": "de",
-      "html": "<h2>Charakterdesign</h2>\n<p>06/2025</p>\n<p>eigener Spielercharakter im Dungeons &amp; Dragons Universum</p>\n<p><em>digitale Zeichnung/Wasserfarbe</em></p>\n"
+      "html": "<h1>Mauvel</h1>\n<h4>Charakterdesign</h4>\n<h4>06/2025</h4>\n<p>eigener Spielercharakter im Dungeons &amp; Dragons Universum</p>\n<p><em>digitale Zeichnung/Wasserfarbe</em></p>\n"
     },
     {
       "title": "Mauvel",
       "language": "en",
-      "html": "<h2>Characterdesign</h2>\n<p>06/2025</p>\n<p>personal Player Character in the Dungeons &amp; Dragons universe</p>\n<p><em>digital drawing/watercolour</em></p>\n"
+      "html": "<h1>Mauvel</h1>\n<h4>Characterdesign</h4>\n<h4>06/2025</h4>\n<p>personal Player Character in the Dungeons &amp; Dragons universe</p>\n<p><em>digital drawing/watercolour</em></p>\n"
     },
     {
-      "title": "Violin",
+      "title": "Vitos house_neutral",
       "language": "de",
-      "html": "<p><em>quietsch quietsch</em></p>\n"
+      "html": "<h1>Vito`s Haus</h1>\n<h4>Environmental Design</h4>\n<h4>2025</h4>\n<p>Projektarbeit im Studium</p>\n<p>Darstellung von vier verschiedenen <em>Moods</em></p>\n<p><em>Wasserfarbe auf digitaler Leinwand</em></p>\n"
     },
     {
-      "title": "Violin",
+      "title": "Vitos house_neutral",
       "language": "en",
-      "html": "<p><em>squeek squeek</em></p>\n"
+      "html": "<h1>Vito`s house</h1>\n<h4>Environmental Design</h4>\n<h4>2025</h4>\n<p>Projectwork for university</p>\n<p>Portrayal of four different Moods</p>\n<p><em>Wasserfarbe auf digitaler Leinwand</em></p>\n"
     },
     {
       "title": "sample-3d_glb",

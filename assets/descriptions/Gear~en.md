@@ -1,6 +1,8 @@
-## Lineart
+# Clockwork
 
-01/2025
+#### Lineart
+
+#### 01/2025
 
 
 
@@ -11,6 +13,4 @@ free project
 *digital drawing*
 
  
-
-
 
