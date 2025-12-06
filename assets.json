@@ -3,16 +3,26 @@
     "2d": [
       "assets/2d/Gear.jpg",
       "assets/2d/Mauvel.jpg",
-      "assets/2d/Vitos house_friendly.png",
-      "assets/2d/Vitos house_neutral.png",
-      "assets/2d/Vitos house_night.png",
-      "assets/2d/Vitos house_uneasy.png"
+      "assets/2d/Vitos house/Vitos house_friendly.png",
+      "assets/2d/Vitos house/Vitos house_neutral.png",
+      "assets/2d/Vitos house/Vitos house_night.png",
+      "assets/2d/Vitos house/Vitos house_uneasy.png"
     ],
     "3d": [
       "assets/3d/sample-3d_glb.glb"
     ]
   },
   "blog": [
+    {
+      "title": "About",
+      "language": "de",
+      "html": "<p>Wer ist Carina Hollinger?</p>\n"
+    },
+    {
+      "title": "About",
+      "language": "en",
+      "html": "<p>Who is Carina Hollinger?</p>\n"
+    },
     {
       "title": "LoremIpsum",
       "language": "de",
@@ -56,12 +66,12 @@
       "html": "<h1>Mauvel</h1>\n<h4>Characterdesign</h4>\n<h4>06/2025</h4>\n<p>personal Player Character in the Dungeons &amp; Dragons universe</p>\n<p><em>digital drawing/watercolour</em></p>\n"
     },
     {
-      "title": "Vitos house_neutral",
+      "title": "Vitos house",
       "language": "de",
       "html": "<h1>Vito`s Haus</h1>\n<h4>Environmental Design</h4>\n<h4>2025</h4>\n<p>Projektarbeit im Studium</p>\n<p>Darstellung von vier verschiedenen <em>Moods</em></p>\n<p><em>Wasserfarbe auf digitaler Leinwand</em></p>\n"
     },
     {
-      "title": "Vitos house_neutral",
+      "title": "Vitos house",
       "language": "en",
       "html": "<h1>Vito`s house</h1>\n<h4>Environmental Design</h4>\n<h4>2025</h4>\n<p>Projectwork for university</p>\n<p>Portrayal of four different Moods</p>\n<p><em>Wasserfarbe auf digitaler Leinwand</em></p>\n"
     },

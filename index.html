@@ -6,8 +6,8 @@
   <link rel="icon" type="image/svg+xml" href="/Logo_bright.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>portfolio-carina-hollinger</title>
-  <script type="module" crossorigin src="/assets/index-Ca01HXSU.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-XGdPmytW.css">
+  <script type="module" crossorigin src="/assets/index-C5U-bySl.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DJDb-j3n.css">
 </head>
 
 <body>
@@ -24,9 +24,10 @@
 
 
   <nav>
-    <button class="nav-btn" data-target="gallery2dContainer" data-key="gallery2d">2D Gallery</button>
+    <button class="nav-btn selected" data-target="gallery2dContainer" data-key="gallery2d">2D Gallery</button>
     <button class="nav-btn" data-target="gallery3dContainer" data-key="gallery3d">3D Gallery</button>
     <button class="nav-btn" data-target="blog" data-key="blog">Blog</button>
+    <button class="nav-btn" data-target="about" data-key="about">About</button>
     <button class="nav-btn" data-target="contact" data-key="contact">Contact</button>
   </nav>
 
@@ -38,14 +39,18 @@
     <div id="gallery3d"></div>
   </section>
 
-  <section id="blog">
+  <section id="blog" class="blogContainer">
     <div id="blog" class="blog"></div>
+  </section>
+
+  <section id="about">
+    <div id="about" class="about"></div>
   </section>
 
   <section id="contact">
     <div id="contact">
-      <form id="contactForm"  class="contactForm" action="https://formspree.io/f/xjkjdapo" method="POST">
-        <input type="text" data-key="name"  name="name" placeholder="Name" required>
+      <form id="contactForm" class="contactForm" action="https://formspree.io/f/xjkjdapo" method="POST">
+        <input type="text" data-key="name" name="name" placeholder="Name" required>
         <input type="email" data-key="email" name="email" placeholder="Email" required>
         <textarea data-key="message" name="message" placeholder="Message" required></textarea>
 
