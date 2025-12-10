@@ -9,7 +9,7 @@
       "assets/2d/Mauvel.jpg"
     ],
     "3d": [
-      "assets/3d/sample-3d_glb.glb"
+      "assets/3d/humanFemale.glb"
     ]
   },
   "blog": [
@@ -76,14 +76,14 @@
       "html": "<h1>Mauvel</h1>\n<h4>Characterdesign</h4>\n<h4>06/2025</h4>\n<p>personal Player Character in the Dungeons &amp; Dragons universe</p>\n<p><em>digital drawing/watercolour</em></p>\n"
     },
     {
-      "title": "sample-3d_glb",
+      "title": "humanFemale",
       "language": "de",
-      "html": "<p>Muuuuuh</p>\n<p>sprichst du mit mir einfachem Ochsen</p>\n"
+      "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n<h4>3D-Modell</h4>\n<p>Übung für den Umgang mit <em>Blender</em> </p>\n"
     },
     {
-      "title": "sample-3d_glb",
+      "title": "humanFemale",
       "language": "en",
-      "html": "<p>Muuuuuh</p>\n<p>ah you are addressing me a humble ox</p>\n"
+      "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n<h4>3D-model</h4>\n<p>Practice for using Blender</p>\n"
     }
   ]
 }
