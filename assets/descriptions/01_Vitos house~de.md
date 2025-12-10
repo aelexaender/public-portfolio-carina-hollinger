@@ -1,16 +1,20 @@
 # Vito`s Haus
 
+###### *2025*
+
+
+
 #### Environmental Design
 
-#### 2025
+
+
+Projektarbeit im Studium:
+
+Darstellung eines Settings in vier verschiedenen *Moods*. 
+
+angefertigt mit *Clip Studio*
 
 
 
-Projektarbeit im Studium
-
-Darstellung von vier verschiedenen *Moods*
-
-
-
-*Wasserfarbe auf digitaler Leinwand*
+Dies ist das Heim eines freigeistigen Zauberers. Es befindet sich mitten im Wald und das Chaos herrscht, doch heimelig ist es trotzdem.
 
