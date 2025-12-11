@@ -1,14 +1,20 @@
 # Mauvel
 
+###### *2025*
+
+
+
 #### Characterdesign
 
-#### 06/2025
+
+
+free project
+
+done with *Clip Studio*
 
 
 
-personal Player Character in the Dungeons \& Dragons universe
+My personal player Character in the *Dungeouns \& Dragons* universe. Mauvel is a Lightfoot-Halfling with the Rogue Profession.
 
 
-
-*digital drawing/watercolour*
 

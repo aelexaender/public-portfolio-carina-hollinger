@@ -1,16 +1,20 @@
 # Clockwork
 
-#### Lineart
+###### *2025*
 
-#### 01/2025
+
+
+#### Lineart
 
 
 
 free project
 
+done with *Clip Studio*
 
 
-*digital drawing*
+
+This showcases my fondness for the steampunk-genre. It was designed as an fineline tattoo motive.
 
  
 

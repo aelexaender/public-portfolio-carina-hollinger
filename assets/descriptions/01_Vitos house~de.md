@@ -4,13 +4,13 @@
 
 
 
-#### Environmental Design
+#### Environmentdesign
 
 
 
 Projektarbeit im Studium:
 
-Darstellung eines Settings in vier verschiedenen *Moods*. 
+Darstellung eines Settings in vier verschiedenen *Moods*.
 
 angefertigt mit *Clip Studio*
 

@@ -1,14 +1,18 @@
 # Mauvel
 
+###### *2025*
+
+
+
 #### Charakterdesign
 
-#### 06/2025
+
+
+freies Projekt 
+
+angefertigt mit *Clip Studio*
 
 
 
-eigener Spielercharakter im Dungeons \& Dragons Universum
-
-
-
-*digitale Zeichnung/Wasserfarbe*
+Mein eigener Spielercharakter im *Dungeons \& Dragons* Universum. Mauvel ist ein Leichtfuß-Halbling Schurke.
 
