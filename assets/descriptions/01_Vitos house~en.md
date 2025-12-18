@@ -16,5 +16,5 @@ done with *Clip Studio*
 
 
 
-This is the home of a free-spirited wizard. It`s located in the middle of a forest and chaos rules, but it`s still cozy.
+This is the home of a free-spirited wizard. It\`s located in the middle of a forest and chaos rules, but it\`s still cozy.
 
