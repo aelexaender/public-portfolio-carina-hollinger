@@ -5,9 +5,9 @@
       "assets/2d/01_Vitos house/Vitos house_neutral.png",
       "assets/2d/01_Vitos house/Vitos house_night.png",
       "assets/2d/01_Vitos house/Vitos house_uneasy.png",
-      "assets/2d/02_Westsiedlung.jpg",
-      "assets/2d/Gear.jpg",
-      "assets/2d/Mauvel.jpg"
+      "assets/2d/02_Inkling.jpg",
+      "assets/2d/03_Westsiedlung.jpg",
+      "assets/2d/Gear.jpg"
     ],
     "3d": [
       "assets/3d/humanFemale.glb"
@@ -67,12 +67,22 @@
       "html": "<h1>Vito`s house</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>Projectwork for university:</p>\n<p>Portrayal of four different Moods</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This is the home of a free-spirited wizard. It`s located in the middle of a forest and chaos rules, but it`s still cozy.</p>\n"
     },
     {
-      "title": "02_Westsiedlung",
+      "title": "02_Inkling",
+      "language": "de",
+      "html": "<h1>Der Inkling</h1>\n<h6><em>2025</em></h6>\n<h4>Charakterdesign</h4>\n<p>freies Projekt</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>\\&quot;Der Inkling\\&quot; ist der Spielercharakter für ein geplantes Spiel. Der gleichnamige Titel wird dem 2D Metroidvania Genre zuzuordnen sein. </p>\n"
+    },
+    {
+      "title": "02_Inkling",
+      "language": "en",
+      "html": "<h1>The Inkling</h1>\n<h6><em>2025</em></h6>\n<h4>Character Design</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>\\&quot;The Inkling\\&quot; is the Player Character for a planned game. The title with the same name will be of the 2D Metroidvania Genre.</p>\n"
+    },
+    {
+      "title": "03_Westsiedlung",
       "language": "de",
       "html": "<h1>Westsiedlung</h1>\n<h6><em>2025</em></h6>\n<h4>Environmentdesign</h4>\n<p>freies Projekt, <strong>in Arbeit</strong></p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Das dargestellte Setting liegt in einer Fantasiewelt ohne Sonne. Lichtquellen sind Wasser und Pflanzen, der Wasserfall hat seinen Ursprung im Himmel. </p>\n<p>Dem Artwork fehlen noch Teile von Lineart sowie die Kolorierung.</p>\n"
     },
     {
-      "title": "02_Westsiedlung",
+      "title": "03_Westsiedlung",
       "language": "en",
       "html": "<h1>Western settlement</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>free project, <strong>in progress</strong></p>\n<p>done with <em>Clip Studio</em></p>\n<p>The Setting is located in a Fantasy world without sun. Light Sources are water and plants, thze waterfall origins in the sky.</p>\n<p>The artwork is missing parts of the lineart and ist coloration.</p>\n"
     },
@@ -85,16 +95,6 @@
       "title": "Gear",
       "language": "en",
       "html": "<h1>Clockwork</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This showcases my fondness for the steampunk-genre. It was designed as an fineline tattoo motive.</p>\n<p> </p>\n"
-    },
-    {
-      "title": "Mauvel",
-      "language": "de",
-      "html": "<h1>Mauvel</h1>\n<h6><em>2025</em></h6>\n<h4>Charakterdesign</h4>\n<p>freies Projekt </p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Mein eigener Spielercharakter im <em>Dungeons &amp; Dragons</em> Universum. Mauvel ist ein Leichtfuß-Halbling Schurke.</p>\n"
-    },
-    {
-      "title": "Mauvel",
-      "language": "en",
-      "html": "<h1>Mauvel</h1>\n<h6><em>2025</em></h6>\n<h4>Characterdesign</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>My personal player Character in the <em>Dungeouns &amp; Dragons</em> universe. Mauvel is a Lightfoot-Halfling with the Rogue Profession.</p>\n"
     },
     {
       "title": "humanFemale",
