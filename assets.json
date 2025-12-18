@@ -25,16 +25,6 @@
       "html": "<h1>About me</h1>\n<h3>Hey! I`m Carina</h3>\n<p>At the moment I`m a Design Student in Munich, Bavaria.</p>\n<p>Art has been a part of my daily life since my early childhood. With the matriculation, I dared a huge step forward and decided to make this hobby my profession.</p>\n<p>My sketches, first ideas and fast drawings are mainly made with a pencil, most of my work is done digitally, though. My Tools include Clip Studio, Blender and Adobe Creative Cloud.</p>\n<h3>My goal is to improve myself.</h3>\n<p>I want to enhance my skills steadily and learn new stuff. Especially the illustration of characters and environments have drawn my interest. Furthermore I`d like to devote myself more to 3D-Art and Animation in 2D and 3D. The study is giving me the opportunity to try many different things.</p>\n<h3>My projects are holding the balance between structure and creative freedom.</h3>\n<p>Extensive or target-aimed work require conscientious approach. Gathering ideas, analyzing inspirational work or templates and a fwell-elaborated Concept are part of that process. After planning, I start the implementation. Promising designs are iteratively optimized until the final result meets the initial goal.</p>\n<p>Many of my free projects emerge spontaneously and without much of a planning. Work like that usually sets base for new scenes, stories or characters. It helps me to continously generate ideas and act out my creativity.</p>\n"
     },
     {
-      "title": "Impressum",
-      "language": "de",
-      "html": "<h3>Kontakt</h3>\n<p>E-mail: </p>\n<p>Telefon: </p>\n"
-    },
-    {
-      "title": "Impressum",
-      "language": "en",
-      "html": "<h3>Contact</h3>\n<p>Mail:\nPhone:</p>\n"
-    },
-    {
       "title": "Past Perfect",
       "language": "de",
       "html": "<h1>Was ist deine Perfektion?</h1>\n<p><em>zuletzt aktualisiert am 10.12.2025</em></p>\n<p>Diese Seite thematisiert mein Langzeit-Projekt mit dem Titel &quot;Past Perfect&quot;. Ich möchte hier sämtliche Inhalte zur Geschichte, wie zum Beispiel Charakterkonzepte, Dialoge, Storyboards etc. veröffentlichen. </p>\n<h2>Logline</h2>\n<p>Nachdem der Techniker Niall den scheinbar perfekten Staat Iden als menschengemachte Illusion enttarnt und ins Chaos gestürzt hat, muss er untertauchen. Seine befreundete Kollegin Eren folgt ihm und gemeinsam arbeiten sie daran, die Realität zu echter Perfektion zu führen.</p>\n<blockquote>\n<p><em>Was ist eine Logline?</em>\nDie Logline fasst den Inhalt einer Geschichte in einem, maximal zwei Sätzen zusammen. Die Methode wird angewandt, um die wichtigsten Informationen festzulegen: </p>\n</blockquote>\n<ul>\n<li>Protagonist</li>\n<li>Antagonist</li>\n<li>Setting</li>\n<li>Problem</li>\n<li>Ziel</li>\n</ul>\n<h2>Die Protagonistin</h2>\n<p>Die Hauptfigur der Geschichte ist die 22-jährige Eren. Sie ist recht groß, hat wildes rotes Haar und grüne Augen. Ihr Wesen ist gutherzig, fröhlich, aufgeweckt und eher extrovertiert. Sie kann manchmal etwas naiv und impulsiv sein.\nDurch den Bruch der Illusion wird Eren mit einer Flut von Negativität konfrontiert, die ihr schwer zu schaffen machen.</p>\n"
@@ -64,7 +54,7 @@
     {
       "title": "01_Vitos house",
       "language": "en",
-      "html": "<h1>Vito`s house</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>Projectwork for university:</p>\n<p>Portrayal of four different Moods</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This is the home of a free-spirited wizard. It`s located in the middle of a forest and chaos rules, but it`s still cozy.</p>\n"
+      "html": "<h1>Vito`s house</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>Projectwork for university:</p>\n<p>Portrayal of four different Moods</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This is the home of a free-spirited wizard. It<code>s located in the middle of a forest and chaos rules, but it</code>s still cozy.</p>\n"
     },
     {
       "title": "02_Westsiedlung",
