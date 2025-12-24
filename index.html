@@ -6,9 +6,9 @@
   <link rel="icon" type="image/svg+xml" href="/Logo_bright.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>portfolio-carina-hollinger</title>
-  <script type="module" crossorigin src="/assets/index-ZMD0xeNr.js"></script>
+  <script type="module" crossorigin src="/assets/index-DmlxyVDS.js"></script>
   <link rel="modulepreload" crossorigin href="/assets/vendor-three-CErL6X5l.js">
-  <link rel="stylesheet" crossorigin href="/assets/index-DS1xZcNZ.css">
+  <link rel="stylesheet" crossorigin href="/assets/index-CQAFYnpD.css">
 </head>
 
 <body>
@@ -82,9 +82,14 @@
   
   <footer id="footerId">
     <nav>
+      <p class="copyrightNotice">&copy; <span id="year"> </span> Carina Hollinger. All rights reserved.</p>
       <button class="nav-btn" data-target="impressum">
         Impressum
       </button>
+      <div class="footerSpacer"></div>
+      <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+      </script>
     </nav>
   </footer>
   
