@@ -27,12 +27,12 @@
     {
       "title": "Impressum",
       "language": "de",
-      "html": "<h1>Impressum</h1>\n<p>Carina Hollinger</p>\n<p>Moosstraße 9</p>\n<p>82216 Überacker</p>\n<p>Kontakt</p>\n<p>Telefon: +49 (0) 1523 7331568</p>\n<p>E-Mail: <a href=\"mailto:hallo.chvisual@gmail.com\">hallo.chvisual@gmail.com</a></p>\n<p><em>Quelle:</em></p>\n<p><em>e-recht24.de</em></p>\n"
+      "html": "<h3>Kontakt</h3>\n<p>E-mail: </p>\n<p>Telefon: </p>\n"
     },
     {
       "title": "Impressum",
       "language": "en",
-      "html": "<h1>Impressum</h1>\n<p>Carina Hollinger</p>\n<p>Moosstraße 9</p>\n<p>82216 Überacker</p>\n<p>Contact</p>\n<p>Phone: +49 (0) 1523 7331568</p>\n<p>E-Mail: <a href=\"mailto:hallo.chvisual@gmail.com\">hallo.chvisual@gmail.com</a></p>\n<p><em>Source:</em></p>\n<p><em>e-recht24.de</em></p>\n"
+      "html": "<h3>Contact</h3>\n<p>Mail:\nPhone:</p>\n"
     },
     {
       "title": "Past Perfect",
