@@ -8,5 +8,7 @@
 
 
 
-Practice for using Blender
+Practice for using *Blender*.
+
+Modelled from a cube.
 

@@ -8,9 +8,7 @@
 
 
 
-Übung für den Umgang mit *Blender* 
+Übung für den Umgang mit *Blender.*
 
-
-
-
+Modelliert ausgehend von einem Würfel.
 
