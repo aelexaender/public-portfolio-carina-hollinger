@@ -6,26 +6,31 @@
   <link rel="icon" type="image/svg+xml" href="/Logo_bright.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>portfolio-carina-hollinger</title>
-  <script type="module" crossorigin src="/assets/index-DZITSJTw.js"></script>
+  <script type="module" crossorigin src="/assets/index-BXr3B3iL.js"></script>
   <link rel="modulepreload" crossorigin href="/assets/vendor-three-CErL6X5l.js">
-  <link rel="stylesheet" crossorigin href="/assets/index-_E2GGsSC.css">
+  <link rel="stylesheet" crossorigin href="/assets/index-DhhP3FMa.css">
 </head>
 
 <body>
   <div class="titleColor">
-    <div class="webTitleContainer">
-      <img src="/Logo_bright.svg" alt="Logo" class="Logo">
-      <img src="/SchriftzugPortfolio_03_weiß.svg" alt="Logo" class="webTitle">
+    <div class="webButtonContainer">
+      <div class="webTitleContainer">
+        <img src="/Logo_bright.svg" alt="Logo" class="Logo">
+        <img src="/SchriftzugPortfolio_03_weiß.svg" alt="Logo" class="webTitle">
+      </div>
+      <button class="portfolioButton" data-target="portfolioContainer" data-key="portfolioButton">
+        <div class="right-arrow"></div>
+        <span>to the portfolio</span>
+      </button>
     </div>
+    <div class="down-arrow"></div>
     <button id='langBtn' class="langBtn" data-key="languageButton">Deutsch</button>
   </div>
 
 
   <nav>
-    <button class="nav-btn selected" data-target="gallery2dContainer" data-key="gallery2d">2D Gallery</button>
-    <button class="nav-btn" data-target="gallery3dContainer" data-key="gallery3d">3D Gallery</button>
-    <button class="nav-btn" data-target="blog" data-key="blog">Blog</button>
-    <button class="nav-btn" data-target="about" data-key="about">About</button>
+    <button class="nav-btn" data-target="portfolioContainer" data-key="portfolio">Portfolio</button>
+    <button class="nav-btn selected" data-target="about" data-key="about">About</button>
     <button class="nav-btn" data-target="contact" data-key="contact">Contact</button>
   </nav>
 
@@ -40,32 +45,24 @@
     </a>
   </div>
   <main>
-    <section id="gallery2dContainer" class="active">
-      <div id="gallery2d"></div>
+    <section id="portfolioContainer">
+      <div id="portfolio"></div>
     </section>
 
-    <section id="gallery3dContainer">
-      <div id="gallery3d"></div>
-    </section>
-
-    <section id="blog" class="blogContainer">
-      <div class="blog"></div>
-    </section>
-
-    <section id="about" class="aboutContainer">
+    <section id="about" class="active">
       <div class="about"></div>
     </section>
 
-    <section id="impressum" class="impressumContainer">
+    <section id="impressum" >
       <div class="impressum"></div>
     </section>
 
     <section id="contact">
-      <div>
+      <div class="contactWrapper">
         <form id="contactForm" class="contactForm" action="https://formspree.io/f/xjkjdapo" method="POST">
           <input type="text" data-key="name" name="name" placeholder="Name" required>
           <input type="email" data-key="email" name="email" placeholder="Email" required>
-          <textarea data-key="message" name="message" placeholder="Message" required></textarea>
+          <textarea data-key="message" class="messageBox" name="message" placeholder="Message" required></textarea>
 
           <!-- Honeypot -->
           <input type="text" name="_gotcha" style="display:none">
@@ -79,10 +76,12 @@
     </section>
   </main>
 
-  
+
   <footer id="footerId">
     <nav>
-      <div class="copyrightNotice"><div>&copy; <span id="year"></span></div> </span> Carina Hollinger. <div>All rights reserved.</div></div>
+      <div class="copyrightNotice">
+        <div>&copy; <span id="year"></span></div> </span> Carina Hollinger. <div>All rights reserved.</div>
+      </div>
       <button class="nav-btn" data-target="impressum">
         Impressum
       </button>
@@ -92,7 +91,7 @@
       </script>
     </nav>
   </footer>
-  
+
 </body>
 
 </html>

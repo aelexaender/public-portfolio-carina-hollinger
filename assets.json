@@ -1,28 +1,184 @@
 {
-  "assets": {
-    "2d": [
-      "assets/2d/01_Vitos house/Vitos house_friendly.png",
-      "assets/2d/01_Vitos house/Vitos house_neutral.png",
-      "assets/2d/01_Vitos house/Vitos house_night.png",
-      "assets/2d/01_Vitos house/Vitos house_uneasy.png",
-      "assets/2d/02_Inkling.jpg",
-      "assets/2d/03_Westsiedlung.jpg",
-      "assets/2d/Gear.jpg"
-    ],
-    "3d": [
-      "assets/3d/compressed/humanFemale.glb"
-    ]
-  },
-  "blog": [
+  "projects": [
+    {
+      "id": "01_Vitos house",
+      "titleImage": "assets/portfolio/01_Vitos house/title.png",
+      "cardDescription": [
+        {
+          "title": "project-info",
+          "language": "de",
+          "html": "<h1>Vito`s Haus</h1>\n<h6><em>2025</em></h6>\n<h4>Environmentdesign</h4>\n<p>Projektarbeit im Studium</p>\n"
+        },
+        {
+          "title": "project-info",
+          "language": "en",
+          "html": "<h1>Vito`s house</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>Projectwork for university</p>\n"
+        }
+      ],
+      "overlayContent": {
+        "media": [
+          "assets/portfolio/01_Vitos house/content/Vitos house_friendly.png",
+          "assets/portfolio/01_Vitos house/content/Vitos house_neutral.png",
+          "assets/portfolio/01_Vitos house/content/Vitos house_night.png",
+          "assets/portfolio/01_Vitos house/content/Vitos house_uneasy.png"
+        ],
+        "descriptions": [
+          {
+            "title": "01_Vitos house",
+            "language": "de",
+            "html": "<h1>Vito`s Haus</h1>\n<h6><em>2025</em></h6>\n<h4>Environmentdesign</h4>\n<p>Projektarbeit im Studium:</p>\n<p>Darstellung eines Settings in vier verschiedenen <em>Moods</em>.</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Dies ist das Heim eines freigeistigen Zauberers. Es befindet sich mitten im Wald und das Chaos herrscht, doch heimelig ist es trotzdem.</p>\n"
+          },
+          {
+            "title": "01_Vitos house",
+            "language": "en",
+            "html": "<h1>Vito`s house</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>Projectwork for university:</p>\n<p>Portrayal of four different Moods</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This is the home of a free-spirited wizard. It`s located in the middle of a forest and chaos rules, but it`s still cozy.</p>\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "02_humanFemale",
+      "titleImage": null,
+      "cardDescription": [
+        {
+          "title": "project-info",
+          "language": "de",
+          "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n"
+        },
+        {
+          "title": "project-info",
+          "language": "en",
+          "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n"
+        }
+      ],
+      "overlayContent": {
+        "media": [
+          "assets/portfolio/02_humanFemale/content/compressed/humanFemale.glb"
+        ],
+        "descriptions": [
+          {
+            "title": "humanFemale",
+            "language": "de",
+            "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n<h4>3D-Modell</h4>\n<p>Übung für den Umgang mit <em>Blender.</em></p>\n<p>Modelliert ausgehend von einem Würfel.</p>\n"
+          },
+          {
+            "title": "humanFemale",
+            "language": "en",
+            "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n<h4>3D-model</h4>\n<p>Practice for using <em>Blender</em>.</p>\n<p>Modelled from a cube.</p>\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "03_Inkling",
+      "titleImage": null,
+      "cardDescription": [
+        {
+          "title": "project-info",
+          "language": "de",
+          "html": "<h1>Tinkerchen</h1>\n<h6><em>2025</em></h6>\n<h4>Charakterdesign</h4>\n<p>freies Projekt</p>\n"
+        },
+        {
+          "title": "project-info",
+          "language": "en",
+          "html": "<h1>The Inkling</h1>\n<h6><em>2025</em></h6>\n<h4>Character Design</h4>\n<p>free project</p>\n"
+        }
+      ],
+      "overlayContent": {
+        "media": [
+          "assets/portfolio/03_Inkling/content/02_Inkling.jpg"
+        ],
+        "descriptions": [
+          {
+            "title": "02_Inkling",
+            "language": "de",
+            "html": "<h1>Tinkerchen</h1>\n<h6><em>2025</em></h6>\n<h4>Charakterdesign</h4>\n<p>freies Projekt</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>&quot;Der Inkling&quot;, oder &quot;Tinkerchen&quot;, ist der Spielercharakter für ein geplantes Spiel. Der gleichnamige Titel wird dem 2D Metroidvania Genre zuzuordnen sein.</p>\n"
+          },
+          {
+            "title": "02_Inkling",
+            "language": "en",
+            "html": "<h1>The Inkling</h1>\n<h6><em>2025</em></h6>\n<h4>Character Design</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>&quot;The Inkling&quot; is the Player Character for a planned game. The title with the same name will be of the 2D Metroidvania Genre.</p>\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "04_Westsiedlung",
+      "titleImage": null,
+      "cardDescription": [
+        {
+          "title": "project-info",
+          "language": "de",
+          "html": "<h1>Westsiedlung</h1>\n<h6><em>2025</em></h6>\n<h4>Environmentdesign</h4>\n<p>freies Projekt, <strong>in Arbeit</strong></p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n"
+        },
+        {
+          "title": "project-info",
+          "language": "en",
+          "html": "<h1>Western settlement</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>free project, <strong>in progress</strong></p>\n<p>done with <em>Clip Studio</em></p>\n"
+        }
+      ],
+      "overlayContent": {
+        "media": [
+          "assets/portfolio/04_Westsiedlung/content/03_Westsiedlung.jpg"
+        ],
+        "descriptions": [
+          {
+            "title": "03_Westsiedlung",
+            "language": "de",
+            "html": "<h1>Westsiedlung</h1>\n<h6><em>2025</em></h6>\n<h4>Environmentdesign</h4>\n<p>freies Projekt, <strong>in Arbeit</strong></p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Das dargestellte Setting liegt in einer Fantasiewelt ohne Sonne. Lichtquellen sind Wasser und Pflanzen, der Wasserfall hat seinen Ursprung im Himmel.</p>\n<p>Dem Artwork fehlen noch Teile des Lineart sowie die Kolorierung.</p>\n"
+          },
+          {
+            "title": "03_Westsiedlung",
+            "language": "en",
+            "html": "<h1>Western settlement</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>free project, <strong>in progress</strong></p>\n<p>done with <em>Clip Studio</em></p>\n<p>The Setting is located in a Fantasy world without sun. Light sources are water and plants, the waterfall origins in the sky.</p>\n<p>The artwork is missing parts of the lineart and its coloration.</p>\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "05_Gear",
+      "titleImage": null,
+      "cardDescription": [
+        {
+          "title": "project-info",
+          "language": "de",
+          "html": "<h1>Räderwerk</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>freies Projekt</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n"
+        },
+        {
+          "title": "project-info",
+          "language": "en",
+          "html": "<h1>Clockwork</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n"
+        }
+      ],
+      "overlayContent": {
+        "media": [
+          "assets/portfolio/05_Gear/content/Gear.jpg"
+        ],
+        "descriptions": [
+          {
+            "title": "Gear",
+            "language": "de",
+            "html": "<h1>Räderwerk</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>freies Projekt</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Diese Arbeit demonstriert meine Vorliebe für das Steampunk-Genre. Sie wurde als Motiv für ein Fineline-Tattoo konzipiert.</p>\n"
+          },
+          {
+            "title": "Gear",
+            "language": "en",
+            "html": "<h1>Clockwork</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This showcases my fondness for the steampunk-genre. It was designed as an fineline tattoo motive.</p>\n<p> </p>\n"
+          }
+        ]
+      }
+    }
+  ],
+  "pages": [
     {
       "title": "About",
       "language": "de",
-      "html": "<h1>Über mich</h1>\n<h3>Hey! Ich bin Carina</h3>\n<div class=\"side-by-side\">\n\n<div>\n\n<p>Aktuell bin ich Designstudentin in München. </p>\n<p>Kunst &amp; Zeichnen sind seit meiner frühen Kindheit ein wichtiger Teil meines Alltags. Mit dem Studium habe ich einen großen Schritt gewagt und mich dazu entschieden, mein Hobby zum Beruf zu machen.</p>\n<p>Skizzen, erste Ideen oder schnelle Zeichnungen fertige ich meist analog mit dem Bleistift, der überwiegende Teil meiner Arbeit entsteht jedoch digital. Meine Tools sind unter anderem Clip Studio, Blender und die Adobe Creative Cloud.</p>\n</div>\n\n<img src=\"assets/2d/-About1.JPG\" alt=\"About1\">\n\n</div>\n\n\n<h3>Mein Ziel ist es, mich weiterzuentwickeln.</h3>\n<p>Ich will meine Skills stetig weiter verbessern und neue Dinge dazuzulernen. Besonderes Interesse habe ich an der Illustration von Charakteren und Environments. Außerdem möchte ich mich mehr mit 3D-Modeling und Animation in 2D &amp; 3D beschäftigen. Das Studium bietet mir dabei die Möglichkeit, viele verschiedene Dinge auszuprobieren.</p>\n<h3>Meine Projekte halten die Balance zwischen Struktur und kreativer Freiheit.</h3>\n<p>Arbeiten, die umfangreich sind oder ein konkretes Ziel verfolgen, gehe ich gewissenhaft an. Dazu gehört das Sammeln von Ideen, die Analyse von Inspirationen oder Vorlagen und ein vollständig ausgearbeitetes Konzept. Nach der Planung gehe ich in die Umsetzung. Dabei werden vielversprechende Entwürfe iterativ verbessert, bis das Endergebnis dem Ziel entspricht.</p>\n<p>Viele freie Projekte entstehen bei mir aber auch spontan und ohne große Planung. Solche Arbeiten stellen oft die Basis für eine neue Szene, Geschichte oder Figur dar. Das hilft mir, immer wieder Ideen zu generieren und meine Kreativität auszuleben.</p>\n"
+      "html": "<h1>Über mich</h1>\n<h3>Hey! Ich bin Carina</h3>\n<div class=\"side-by-side\">\n\n<div>\n\n<p>Aktuell bin ich Designstudentin in München. </p>\n<p>Kunst &amp; Zeichnen sind seit meiner frühen Kindheit ein wichtiger Teil meines Alltags. Mit dem Studium habe ich einen großen Schritt gewagt und mich dazu entschieden, mein Hobby zum Beruf zu machen.</p>\n<p>Skizzen, erste Ideen oder schnelle Zeichnungen fertige ich meist analog mit dem Bleistift, der überwiegende Teil meiner Arbeit entsteht jedoch digital. Meine Tools sind unter anderem Clip Studio, Blender und die Adobe Creative Cloud.</p>\n</div>\n\n<img src=\"assets/pictures/-About1.JPG\" alt=\"About1\">\n\n</div>\n\n\n<h3>Mein Ziel ist es, mich weiterzuentwickeln.</h3>\n<p>Ich will meine Skills stetig weiter verbessern und neue Dinge dazuzulernen. Besonderes Interesse habe ich an der Illustration von Charakteren und Environments. Außerdem möchte ich mich mehr mit 3D-Modeling und Animation in 2D &amp; 3D beschäftigen. Das Studium bietet mir dabei die Möglichkeit, viele verschiedene Dinge auszuprobieren.</p>\n<h3>Meine Projekte halten die Balance zwischen Struktur und kreativer Freiheit.</h3>\n<p>Arbeiten, die umfangreich sind oder ein konkretes Ziel verfolgen, gehe ich gewissenhaft an. Dazu gehört das Sammeln von Ideen, die Analyse von Inspirationen oder Vorlagen und ein vollständig ausgearbeitetes Konzept. Nach der Planung gehe ich in die Umsetzung. Dabei werden vielversprechende Entwürfe iterativ verbessert, bis das Endergebnis dem Ziel entspricht.</p>\n<p>Viele freie Projekte entstehen bei mir aber auch spontan und ohne große Planung. Solche Arbeiten stellen oft die Basis für eine neue Szene, Geschichte oder Figur dar. Das hilft mir, immer wieder Ideen zu generieren und meine Kreativität auszuleben.</p>\n"
     },
     {
       "title": "About",
       "language": "en",
-      "html": "<h1>About me</h1>\n<h3>Hey! I`m Carina</h3>\n<div class=\"side-by-side\">\n\n<div>\n\n<p>At the moment, I`m a Design Student in Munich, Bavaria.</p>\n<p>Art has been a part of my daily life since my early childhood. With the matriculation, I dared a huge step forward and decided to make this hobby my profession.</p>\n<p>My sketches, first ideas and fast drawings are mainly made with a pencil, most of my work is done digitally, though. My Tools include Clip Studio, Blender and Adobe Creative Cloud.</p>\n</div>\n\n<img src=\"assets/2d/-About1.JPG\" alt=\"About1\">\n\n</div>\n\n\n\n\n<h3>My goal is to improve myself.</h3>\n<p>I want to enhance my skills steadily and learn new stuff. Especially the illustration of characters and environments have drawn my interest. Furthermore, I`d like to devote myself more to 3D-Art and Animation in 2D and 3D. The study is giving me the opportunity to try many different things.</p>\n<h3>My projects are holding the balance between structure and creative freedom.</h3>\n<p>Extensive or target-aimed work require conscientious approach. Gathering ideas, analyzing inspirational work or templates and a well-elaborated Concept are part of that process. After planning, I start the implementation. Promising designs are iteratively optimized until the final result meets the initial goal.</p>\n<p>Many of my free projects emerge spontaneously and without much of a planning. Work like that usually sets base for new scenes, stories or characters. It helps me to continously generate ideas and act out my creativity.</p>\n"
+      "html": "<h1>About me</h1>\n<h3>Hey! I`m Carina</h3>\n<div class=\"side-by-side\">\n\n<div>\n\n<p>At the moment, I`m a Design Student in Munich, Bavaria.</p>\n<p>Art has been a part of my daily life since my early childhood. With the matriculation, I dared a huge step forward and decided to make this hobby my profession.</p>\n<p>My sketches, first ideas and fast drawings are mainly made with a pencil, most of my work is done digitally, though. My Tools include Clip Studio, Blender and Adobe Creative Cloud.</p>\n</div>\n\n<img src=\"assets/pictures/-About1.JPG\" alt=\"About1\">\n\n</div>\n\n\n\n\n<h3>My goal is to improve myself.</h3>\n<p>I want to enhance my skills steadily and learn new stuff. Especially the illustration of characters and environments have drawn my interest. Furthermore, I`d like to devote myself more to 3D-Art and Animation in 2D and 3D. The study is giving me the opportunity to try many different things.</p>\n<h3>My projects are holding the balance between structure and creative freedom.</h3>\n<p>Extensive or target-aimed work require conscientious approach. Gathering ideas, analyzing inspirational work or templates and a well-elaborated Concept are part of that process. After planning, I start the implementation. Promising designs are iteratively optimized until the final result meets the initial goal.</p>\n<p>Many of my free projects emerge spontaneously and without much of a planning. Work like that usually sets base for new scenes, stories or characters. It helps me to continously generate ideas and act out my creativity.</p>\n"
     },
     {
       "title": "Impressum",
@@ -43,58 +199,6 @@
       "title": "Past Perfect",
       "language": "en",
       "html": "<h1>Past Perfect</h1>\n<p><em>last update on 18.12.2025</em></p>\n<p>This page sets Focus on my longterm-project titled &quot;past perfect&quot;. I will share all kinds of content related to the story, like charactersheets, dialogues, storyboards etc.</p>\n<h2>Logline</h2>\n<p>After technician Niall unveils the seemingly perfect state Iden as a man-made illusion and therefore turned it upside down, he has to go undercover. His colleague Eren follows him and together they work towards a true perfection for their reality.</p>\n<blockquote>\n<p>*What`s a Logline?*</p>\n</blockquote>\n<p>A Logline summarizes the contents of a story in one or two sentences. This method is used to determine the most important information:</p>\n<p>- Protagonist</p>\n<p>- Antagonist</p>\n<p>- Setting</p>\n<p>- Problem</p>\n<p>- Goal</p>\n<h3>The Protagonist</h3>\n<p>The Main Character of the story is 22-year-old Eren. She`s quite tall, has wild red hair and green eyes. Her nature is kind, cheerful, lively and extrovert. She can be naive and impulsive from time to time.</p>\n<p>After the destruction of the illusion, Eren is faced with a flood of negativity, which gives her a hard time.</p>\n"
-    }
-  ],
-  "descriptions": [
-    {
-      "title": "01_Vitos house",
-      "language": "de",
-      "html": "<h1>Vito`s Haus</h1>\n<h6><em>2025</em></h6>\n<h4>Environmentdesign</h4>\n<p>Projektarbeit im Studium:</p>\n<p>Darstellung eines Settings in vier verschiedenen <em>Moods</em>.</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Dies ist das Heim eines freigeistigen Zauberers. Es befindet sich mitten im Wald und das Chaos herrscht, doch heimelig ist es trotzdem.</p>\n"
-    },
-    {
-      "title": "01_Vitos house",
-      "language": "en",
-      "html": "<h1>Vito`s house</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>Projectwork for university:</p>\n<p>Portrayal of four different Moods</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This is the home of a free-spirited wizard. It`s located in the middle of a forest and chaos rules, but it`s still cozy.</p>\n"
-    },
-    {
-      "title": "02_Inkling",
-      "language": "de",
-      "html": "<h1>Tinkerchen</h1>\n<h6><em>2025</em></h6>\n<h4>Charakterdesign</h4>\n<p>freies Projekt</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>&quot;Der Inkling&quot;, oder &quot;Tinkerchen&quot;, ist der Spielercharakter für ein geplantes Spiel. Der gleichnamige Titel wird dem 2D Metroidvania Genre zuzuordnen sein.</p>\n"
-    },
-    {
-      "title": "02_Inkling",
-      "language": "en",
-      "html": "<h1>The Inkling</h1>\n<h6><em>2025</em></h6>\n<h4>Character Design</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>&quot;The Inkling&quot; is the Player Character for a planned game. The title with the same name will be of the 2D Metroidvania Genre.</p>\n"
-    },
-    {
-      "title": "03_Westsiedlung",
-      "language": "de",
-      "html": "<h1>Westsiedlung</h1>\n<h6><em>2025</em></h6>\n<h4>Environmentdesign</h4>\n<p>freies Projekt, <strong>in Arbeit</strong></p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Das dargestellte Setting liegt in einer Fantasiewelt ohne Sonne. Lichtquellen sind Wasser und Pflanzen, der Wasserfall hat seinen Ursprung im Himmel.</p>\n<p>Dem Artwork fehlen noch Teile des Lineart sowie die Kolorierung.</p>\n"
-    },
-    {
-      "title": "03_Westsiedlung",
-      "language": "en",
-      "html": "<h1>Western settlement</h1>\n<h6><em>2025</em></h6>\n<h4>Environmental Design</h4>\n<p>free project, <strong>in progress</strong></p>\n<p>done with <em>Clip Studio</em></p>\n<p>The Setting is located in a Fantasy world without sun. Light sources are water and plants, the waterfall origins in the sky.</p>\n<p>The artwork is missing parts of the lineart and its coloration.</p>\n"
-    },
-    {
-      "title": "Gear",
-      "language": "de",
-      "html": "<h1>Räderwerk</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>freies Projekt</p>\n<p>angefertigt mit <em>Clip Studio</em></p>\n<p>Diese Arbeit demonstriert meine Vorliebe für das Steampunk-Genre. Sie wurde als Motiv für ein Fineline-Tattoo konzipiert.</p>\n"
-    },
-    {
-      "title": "Gear",
-      "language": "en",
-      "html": "<h1>Clockwork</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This showcases my fondness for the steampunk-genre. It was designed as an fineline tattoo motive.</p>\n<p> </p>\n"
-    },
-    {
-      "title": "humanFemale",
-      "language": "de",
-      "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n<h4>3D-Modell</h4>\n<p>Übung für den Umgang mit <em>Blender.</em></p>\n<p>Modelliert ausgehend von einem Würfel.</p>\n"
-    },
-    {
-      "title": "humanFemale",
-      "language": "en",
-      "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n<h4>3D-model</h4>\n<p>Practice for using <em>Blender</em>.</p>\n<p>Modelled from a cube.</p>\n"
     }
   ]
 }
