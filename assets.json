@@ -37,6 +37,37 @@
       }
     },
     {
+      "id": "02_Kiano",
+      "titleImage": null,
+      "cardDescription": [
+        {
+          "title": "project-info",
+          "language": "de",
+          "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n"
+        },
+        {
+          "title": "project-info",
+          "language": "en",
+          "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n"
+        }
+      ],
+      "overlayContent": {
+        "media": [],
+        "descriptions": [
+          {
+            "title": "Kiano",
+            "language": "de",
+            "html": "<h1>Kiano</h1>\n<h6><em>2025/2026</em></h6>\n<h4>3D-Modell</h4>\n<p>Projektarbeit </p>\n"
+          },
+          {
+            "title": "Kiano",
+            "language": "en",
+            "html": "<h1>Kiano</h1>\n<h6><em>2025/2026</em></h6>\n<h4>3D-model</h4>\n<p>Practice for using <em>Blender</em>.</p>\n<p>Modelled from a cube.</p>\n"
+          }
+        ]
+      }
+    },
+    {
       "id": "02_humanFemale",
       "titleImage": null,
       "cardDescription": [
