@@ -68,39 +68,6 @@
       }
     },
     {
-      "id": "02_humanFemale",
-      "titleImage": null,
-      "cardDescription": [
-        {
-          "title": "project-info",
-          "language": "de",
-          "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n"
-        },
-        {
-          "title": "project-info",
-          "language": "en",
-          "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n"
-        }
-      ],
-      "overlayContent": {
-        "media": [
-          "assets/portfolio/02_humanFemale/content/compressed/humanFemale.glb"
-        ],
-        "descriptions": [
-          {
-            "title": "humanFemale",
-            "language": "de",
-            "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n<h4>3D-Modell</h4>\n<p>Übung für den Umgang mit <em>Blender.</em></p>\n<p>Modelliert ausgehend von einem Würfel.</p>\n"
-          },
-          {
-            "title": "humanFemale",
-            "language": "en",
-            "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n<h4>3D-model</h4>\n<p>Practice for using <em>Blender</em>.</p>\n<p>Modelled from a cube.</p>\n"
-          }
-        ]
-      }
-    },
-    {
       "id": "03_Inkling",
       "titleImage": null,
       "cardDescription": [
@@ -195,6 +162,39 @@
             "title": "Gear",
             "language": "en",
             "html": "<h1>Clockwork</h1>\n<h6><em>2025</em></h6>\n<h4>Lineart</h4>\n<p>free project</p>\n<p>done with <em>Clip Studio</em></p>\n<p>This showcases my fondness for the steampunk-genre. It was designed as an fineline tattoo motive.</p>\n<p> </p>\n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "06_humanFemale",
+      "titleImage": null,
+      "cardDescription": [
+        {
+          "title": "project-info",
+          "language": "de",
+          "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n"
+        },
+        {
+          "title": "project-info",
+          "language": "en",
+          "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n"
+        }
+      ],
+      "overlayContent": {
+        "media": [
+          "assets/portfolio/06_humanFemale/content/compressed/humanFemale.glb"
+        ],
+        "descriptions": [
+          {
+            "title": "humanFemale",
+            "language": "de",
+            "html": "<h1>Mensch, weibliches Basismodell</h1>\n<h6><em>2025</em></h6>\n<h4>3D-Modell</h4>\n<p>Übung für den Umgang mit <em>Blender.</em></p>\n<p>Modelliert ausgehend von einem Würfel.</p>\n"
+          },
+          {
+            "title": "humanFemale",
+            "language": "en",
+            "html": "<h1>Human, female base model</h1>\n<h6><em>2025</em></h6>\n<h4>3D-model</h4>\n<p>Practice for using <em>Blender</em>.</p>\n<p>Modelled from a cube.</p>\n"
           }
         ]
       }
